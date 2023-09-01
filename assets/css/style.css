@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    
+}
+header{
+    background-color: black;
+}
+   
+
+#logo{
+    text-align: center;
+    width: 25%;
+    height: 25%;
+    padding: 1em;
+}
+
+#sfondo{
+background-image: url(/assets/images/banner.jpg);
+background-size: 100%;
+
+}
+
+
+
+nav div h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: rgb(78, 78, 231);
+    margin-bottom: 1em;
+    padding-top: 1em;
+}
+
+#Bottone{
+    background-color: #f04c2f;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 50px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+
+
+}
+
+main h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: rgb(78, 78, 231);
+    margin-top: 1.8em;
+    margin-bottom: 1em;
+
+}
+
+#foto1{
+    width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  margin-top: 1em;
+  
+}
+
+section{
+background-color:  #e22d0e;
+margin-top: 2em;
+margin-bottom: 2em;
+}
+
+section h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    padding: 1em;
+}
+
+section p {
+    color: white;
+    font-size: 0.8rem;
+}
+
+section div{
+    padding:1em ;
+    
+}
+
+#ceo{
+    font-size: 50%;   
+    
+}
+
+aside img{
+width: 90%;
+height: 50%;
+}
+
+aside h6{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: rgb(78, 78, 231);
+    font-size: 1rem;
+    padding:1em;
+    
+}
+
+aside p{
+margin-top: 1em;
+margin-bottom: 0.8em;
+}
+
+#primo{
+    border: 1px solid #dee1e3; 
+    padding: 10px; 
+    display: inline-block;
+    margin: 1em;
+    
+}
+#secondo{
+    border: 1px solid #dee1e3; 
+    padding: 10px; 
+    display: inline-block;
+    margin: 1em;
+}
+#terzo{
+    border: 1px solid #dee1e3; 
+    padding: 10px; 
+    display: inline-block;
+    margin: 1em;
+
+}
+footer {
+background-color: #25a2c3;
+padding: 1em;
+font-size: 1rem;
+
+}
+
+footer h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color:white;
+    margin-bottom: 0.5em;
+}
+
+ul{
+    list-style: none;
+}
+
+hr{
+    width: 50%;
+}
